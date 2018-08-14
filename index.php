@@ -2,7 +2,8 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Comic</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Webcomic reader (2015)</title>
   
   <link href="http://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
   <link rel="stylesheet" href="custom.css">
